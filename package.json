@@ -9,9 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-core": "^6.18.2",
-    "babel-loader": "^6.2.8",
-    "babel-preset-latest": "^6.16.0",
+    "awesome-typescript-loader": "^1.1.1",
+    "typescript": "^2.0.10",
     "webpack": "^1.13.3"
   }
 }
